@@ -14,7 +14,6 @@ YouTube Audio Streamer is a web application that allows users to download audio 
 Before you begin, ensure you have met the following requirements:
 
 - You have installed the latest version of [Go](https://golang.org/dl/).
-- You have a basic understanding of Go language and web development.
 - You have `yt-dlp` and `ffmpeg` installed on your system.
 
 ## Installation
